@@ -1,0 +1,3 @@
+[submodule "libfoo"]
+	path = src/main/origins-plus-plus
+	url = git://github.com/noahpro99/origins-plus-plus.git
